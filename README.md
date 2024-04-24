@@ -60,14 +60,13 @@ Subject matter expert knowledge should be available in main areas like:
     Cyber Security 
     …and so on 
 
-Each of the topics listed above is worth getting highlighted in a separate blog post – watch this space! 
-
- A further means to improve test efficiency and to keep complexity under control is test automation. Design and implementation of automated tests should be considered as software engineering tasks since CPE test automation is usually not just a simple test scripting. Available tooling will be used as much as possible (e.g., scripting environments, CI/CD tool chains, data load generators, voice quality measurement tools…).  
+A further means to improve test efficiency and to keep complexity under control is test automation. Design and implementation of automated tests should be considered as software engineering tasks since CPE test automation is usually not just a simple test scripting. Available tooling will be used as much as possible (e.g., scripting environments, CI/CD tool chains, data load generators, voice quality measurement tools…).  
 
 Last (but not least) you should have multi-domain experts or expert teams available for root cause analysis of defects in the CPE software and hardware (but also for defects in the test environment and tooling). It’s not always clear at a first glance if the root cause of a defect is on the physical, network, or application layer, caused by incorrect provisioning data, or if it is caused within the Device Under Test at all. 
+
 Conclusion 
 
-Home gateways have become more and more complex over time. They have to support all the network protocols and interfaces for end customer features as well as network operators’ needs: high speed internet, video and voice calls, gaming, video streaming, remote operation and maintenance, device provisioning… you get the idea. Additionally, the end customer’s home network and equipment require seamless interoperability (Wi-Fi, Ethernet, VPNs, USB mass storage and printer connectivity, DECT/CAT-iq). 
+Home gateways have become more and more complex over time. They have to support all the network protocols and interfaces for end customer features as well as network operators’ needs: high speed internet, video and voice calls, gaming, video streaming, remote operation and maintenance, device provisioning… you get the idea. Additionally, the end customer’s home network and equipment require seamless interoperability (Wi-Fi, Ethernet, VPNs, USB mass storage and printer connectivity, DECT...). 
 
 Due to this complexity the probability of hardware, software and interworking issues and defects has increased dramatically from my point of view. When verifying new CPE firmware 5 years ago, the number of found defects was likely to be in the range of 30 – 50, currently it is likely to be in the range 60 – 100. 
 
