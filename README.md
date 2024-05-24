@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert AKA @telecomfreak
 - 👀 I’m interested in collaboration and learning real world projects.
-- 🌱 I’m currently learning programming and devops. I want to continue my career in more generic IT roles. Coming from Telecommucation sector, i am highly specialized in a domain named Inhome Engineering as a tester of hardware and software stacks integration and local functions and services running on and thru a Gateway (customer premise equipment), LTE gateway, WiFi Access Point, WiFi Mesh networks.
+- 🌱 I’m currently learning programming and devops. I want to continue my career in more generic IT roles. Coming from the telecommucation sector, i am highly specialized in a domain named Inhome Engineering as a tester of hardware and software stacks integration and local functions and services running on and thru a Gateway (customer premise equipment), LTE gateway, WiFi Access Point, WiFi Mesh networks.
 
 - Below a preview of what inhome equipment testing is all about and the challenges that comes with it:
 
